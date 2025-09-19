@@ -50,8 +50,8 @@ Recommendations and extracted text preview are shown.
 
 Clone this repository:
 
-git clone https://github.com/your-username/llm-document-analyzer.git
-cd llm-document-analyzer
+git clone[ https://github.com/your-username/llm-document-analyzer.git
+cd llm-document-analyzer](https://github.com/saikrishna1437/LLM-PROJECT.git)
 
 
 Open skillrankLLM.html in your browser.
